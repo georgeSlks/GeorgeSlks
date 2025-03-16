@@ -30,6 +30,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![ARIMA](https://img.shields.io/badge/ARIMA-FF7F50?style=plastic&logo=python&logoColor=white)
+
 
 * **[Covid19-Xrays-Classifier](https://github.com/georgeSlks/COVID19-Chest-Xray-Classifier-Using-CNN)**
 * **[Economic-Indicator-Monitoring-System-v1.0](https://github.com/georgeSlks/Economic-Indicator-Monitoring-System-v1.0)**
