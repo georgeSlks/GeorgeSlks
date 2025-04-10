@@ -10,9 +10,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
 
-* **[Registration-Form](https://github.com/georgeSlks/Full_Stack_Registration_Form)**
 * **[Finance-Tracker](https://github.com/georgeSlks/Finance-Tracker)**
-* **[Task-Management-App](https://github.com/georgeSlks/Task-Management-App)**
+* **[Task-Management-App](https://github.com/georgeSlks/Task-Management-App)**  
+* **[Registration-Form](https://github.com/georgeSlks/Full_Stack_Registration_Form)**
 
 <h2><i>Data Engineering Projects</i></h2>
 
