@@ -24,6 +24,7 @@
 
 * **[Stock-Streaming-ETL-Pipeline](https://github.com/georgeSlks/Stock-Streaming-ETL-Pipeline)**
 * **[Kafka-in-Kraft-Mode-with-Kafdrop-Ui-WSl2](https://github.com/georgeSlks/Kafka-in-Kraft-Mode-with-Kafdrop-Ui-WSl2)**
+* **[Static-Churn-Analysis-SparkML](https://github.com/georgeSlks/Static-Churn-Analysis-SparkML)**
 * **[Gene-Expression-Dashboard-ETL-Pipeline](https://github.com/georgeSlks/Gene-Expression-Dashboard-ETL-Pipeline)**
 
 <h3><i>Data Science & Machine Learning</i></h3>
@@ -33,6 +34,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![ARIMA](https://img.shields.io/badge/ARIMA-FF7F50?style=plastic&logo=python&logoColor=white)
 
+* **[Static-Churn-Analysis-SparkML](https://github.com/georgeSlks/Static-Churn-Analysis-SparkML)**
 * **[Covid19-Xrays-Classifier](https://github.com/georgeSlks/COVID19-Chest-Xray-Classifier-Using-CNN)**
 * **[Economic-Indicator-Monitoring-System-v1.0](https://github.com/georgeSlks/Economic-Indicator-Monitoring-System-v1.0)**
   
